@@ -13,9 +13,10 @@ $ python main.py
 
 ### PS:
 > Constraints:
-    Area-Code must be of 3 to 5 digits (INDIA)
-    Use - or . or (space) to separate Area-Code and Telephone Number
-    Telephone Number to be of 8 digits (INDIAN std.)
+>
+> Area-Code must be of 3 to 5 digits (INDIA)
+> Use - or . or (space) to separate Area-Code and Telephone Number
+> Telephone Number to be of 8 digits (INDIAN std.)
 
 ### Suggestions:
 > Open an issue.
